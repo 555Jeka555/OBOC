@@ -1,4 +1,4 @@
-import {Resume} from '@/app/components/Resume/Resume'
+import {Resume} from '@/app/components/Resume'
 
 const App = () => <Resume/>
 
